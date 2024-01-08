@@ -1,2 +1,2 @@
 # Anji_test
-fro learning ST
+for learning ST
